@@ -1,4 +1,3 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 # SGEEE 
 ## Système de gestion des évaluations des enseignements par les étudiants
 
