@@ -1,0 +1,27 @@
+/*************************** on masque tous les autres éléments sauf la classe 'actuel' ***********************/
+/*
+#all-content > *
+{
+    display: none;
+}*/
+
+[class^="section_etd-"], [class^="section_ens-"], [class^="section_session_eval-"], [class^="section_admin-"], .section-dash1, .section-dash2
+{
+    display: none;
+}
+#all-content .actuel, #session_eval .actuel, #add_user .actuel
+{
+    display: block;
+}
+.bg-login-image,.bg-register-image, .bg-password-image
+{
+    background-image:url("http://localhost/sgeee/img/logo_uy1.png") !important;
+    background-position: center;
+    background-size: cover;
+    width: 20%;
+}
+
+.div-ue:hover
+{
+    background: #ececec;
+}
