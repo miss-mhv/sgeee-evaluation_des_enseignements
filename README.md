@@ -5,4 +5,4 @@ Il s'agit d'un système permetttant aux étudiants de donner leurs avis sur la f
 
 ## Template - [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
-Le système est conçu à partir du template boostrap pour [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/).
+Le système est conçu à partir du template boostrap [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/).
